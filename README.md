@@ -9,3 +9,7 @@
 📈 Mis estadísticas de GitHub:
 
 ![Ezel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ezel&show_icons=true&theme=tokyonight)
+
+
+![Mi imagen](./image1.png)
+
